@@ -1,0 +1,94 @@
+{
+"results": [
+{
+"question": "Identify the correct extension of the user-defined header file in C++.",
+"correct_answer": ".h",
+"incorrect_answers": [
+".cpp",
+".hg",
+".hf"
+]
+},
+{
+"question": "Identify the incorrect constructor type.",
+"correct_answer": "Friend Constructor",
+"incorrect_answers": [
+"Parameterized Constructor",
+"Default Constructor",
+"Copy Constructor"
+]
+},
+{
+"question": "Which of the following data type is supported in C++ but not in C?",
+"correct_answer": "bool",
+"incorrect_answers": [
+"int",
+"double",
+"float"
+]
+},
+{
+"question": "Identify the correct syntax for declaring arrays in C++.",
+"correct_answer": "int arr[10]",
+"incorrect_answers": [
+"array arr[10]",
+"int arr",
+"array{10}"
+]
+},
+{
+"question": "Which of the following is “address of operator”?.",
+"correct_answer": "&",
+"incorrect_answers": [
+"&&",
+"*",
+"**"
+]
+},
+{
+"question": "Which of the following loops is best when we know the number of iterations?",
+"correct_answer": "For loop",
+"incorrect_answers": [
+"while loop",
+"all of the above",
+"do while"
+]
+},
+{
+"question": "Identify the correct definition of ‘*’ operator in pointer.",
+"correct_answer": "value of address operator",
+"incorrect_answers": [
+"address of operator",
+"multiple operator",
+"none of the above"
+]
+},
+{
+"question": "Choose the type of loop which is guaranteed to execute at-least once?",
+"correct_answer": "do while",
+"incorrect_answers": [
+"while loop",
+"for loop",
+"none"
+]
+},
+{
+"question": "What is do-while loop also known as?",
+"correct_answer": "Exit control",
+"incorrect_answers": [
+"Entry control",
+"Per tested",
+"All of the above"
+]
+},
+{
+"question": "The constants in C++ are also known as?",
+"correct_answer": "literals",
+"incorrect_answers": [
+"none",
+"const",
+"pre-processor"
+]
+}
+]
+}
